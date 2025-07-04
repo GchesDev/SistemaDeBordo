@@ -49,4 +49,4 @@ Este simulador é um exercício de lógica voltado para iniciantes e entusiastas
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/simulador-sistema-de-bordo.git
+   git clone https://github.com/GchesDev/SistemaDeBordo.git
